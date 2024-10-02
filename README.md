@@ -9,6 +9,7 @@ Calcula a média aritmética simples dessas notas.
 Exibe a média e o status do aluno (Aprovado, Recuperação ou Reprovado) com base na média calculada.
 
 🧮 Como o código funciona
+
 Entrada: Quatro notas são fornecidas diretamente no código.
 
 Cálculo: A média aritmética é calculada dividindo a soma das notas por 4.
